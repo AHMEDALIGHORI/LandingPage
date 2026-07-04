@@ -71,3 +71,10 @@ Landing Pge/
 This landing page template is free to use and modify for your projects.
 
 
+
+
+## Suggested GitHub Topics
+
+~~~text
+html css javascript responsive-design frontend website landing-page
+~~~
